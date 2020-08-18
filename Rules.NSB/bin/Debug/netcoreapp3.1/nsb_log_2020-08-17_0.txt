@@ -1,0 +1,595 @@
+﻿2020-08-17 00:10:07.335 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:10:08.042 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:10:08.397 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:10:10.506 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:10:10.813 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:20:45.928 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:20:46.755 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:20:47.497 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:20:51.226 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:20:52.339 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:30:05.097 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:30:05.658 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:30:05.852 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:30:08.156 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:30:08.343 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:34:29.359 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:34:30.059 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:34:30.557 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:34:32.698 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:34:33.305 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:37:13.228 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:37:14.118 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:37:14.496 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:37:16.823 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:37:17.033 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:41:01.448 INFO  in CheckLoanLegalityHandler loanId : 39fbcdcd-1b0d-4ff4-bce2-80354ca8313b
+2020-08-17 00:58:03.018 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:58:04.308 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:58:05.293 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:58:08.158 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:58:08.982 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:58:24.571 INFO  Immediate Retry is going to retry message '4dabec2d-f49c-46cb-8974-ac19016a17b8' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[Messages.Events.LoanChecked, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+RuleModel -> LoanChecked
+Rules.Service.Models.RuleModel -> Messages.Events.LoanChecked
+   at lambda_method(Closure , RuleModel , LoanChecked , ResolutionContext )
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   at Rules.Service.CheckRulesService.CheckLegality(CheckLoanValid message) in C:\Users\User\source\repos\Bank\Rules.Service\CheckRulesService.cs:line 46
+   at Rules.NSB.CheckLoanValidHandler.Handle(CheckLoanValid message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Rules.NSB\CheckLoanValidHandler.cs:line 23
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.CheckLoanValid
+	Handler type: Rules.NSB.CheckLoanValidHandler
+	Handler start time: 16/08/2020 21:58:21
+	Handler failure time: 16/08/2020 21:58:24
+	Message ID: 4dabec2d-f49c-46cb-8974-ac19016a17b8
+2020-08-17 00:58:25.024 WARN  Delayed Retry will reschedule message '4dabec2d-f49c-46cb-8974-ac19016a17b8' after a delay of 00:00:02 because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[Messages.Events.LoanChecked, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+RuleModel -> LoanChecked
+Rules.Service.Models.RuleModel -> Messages.Events.LoanChecked
+   at lambda_method(Closure , RuleModel , LoanChecked , ResolutionContext )
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   at Rules.Service.CheckRulesService.CheckLegality(CheckLoanValid message) in C:\Users\User\source\repos\Bank\Rules.Service\CheckRulesService.cs:line 46
+   at Rules.NSB.CheckLoanValidHandler.Handle(CheckLoanValid message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Rules.NSB\CheckLoanValidHandler.cs:line 23
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.CheckLoanValid
+	Handler type: Rules.NSB.CheckLoanValidHandler
+	Handler start time: 16/08/2020 21:58:24
+	Handler failure time: 16/08/2020 21:58:25
+	Message ID: 4dabec2d-f49c-46cb-8974-ac19016a17b8
+2020-08-17 00:58:27.445 INFO  Immediate Retry is going to retry message '4dabec2d-f49c-46cb-8974-ac19016a17b8' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[Messages.Events.LoanChecked, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+RuleModel -> LoanChecked
+Rules.Service.Models.RuleModel -> Messages.Events.LoanChecked
+   at lambda_method(Closure , RuleModel , LoanChecked , ResolutionContext )
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   at Rules.Service.CheckRulesService.CheckLegality(CheckLoanValid message) in C:\Users\User\source\repos\Bank\Rules.Service\CheckRulesService.cs:line 46
+   at Rules.NSB.CheckLoanValidHandler.Handle(CheckLoanValid message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Rules.NSB\CheckLoanValidHandler.cs:line 23
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.CheckLoanValid
+	Handler type: Rules.NSB.CheckLoanValidHandler
+	Handler start time: 16/08/2020 21:58:27
+	Handler failure time: 16/08/2020 21:58:27
+	Message ID: 4dabec2d-f49c-46cb-8974-ac19016a17b8
+2020-08-17 00:58:27.815 ERROR Moving message '4dabec2d-f49c-46cb-8974-ac19016a17b8' to the error queue 'error' because processing failed due to an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[Messages.Events.LoanChecked, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+RuleModel -> LoanChecked
+Rules.Service.Models.RuleModel -> Messages.Events.LoanChecked
+   at lambda_method(Closure , RuleModel , LoanChecked , ResolutionContext )
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   at Rules.Service.CheckRulesService.CheckLegality(CheckLoanValid message) in C:\Users\User\source\repos\Bank\Rules.Service\CheckRulesService.cs:line 46
+   at Rules.NSB.CheckLoanValidHandler.Handle(CheckLoanValid message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Rules.NSB\CheckLoanValidHandler.cs:line 23
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.CheckLoanValid
+	Handler type: Rules.NSB.CheckLoanValidHandler
+	Handler start time: 16/08/2020 21:58:27
+	Handler failure time: 16/08/2020 21:58:27
+	Message ID: 4dabec2d-f49c-46cb-8974-ac19016a17b8
+2020-08-17 00:58:58.527 INFO  Immediate Retry is going to retry message '667d9532-32e2-4857-851e-ac19016a3b7b' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[Messages.Events.LoanChecked, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+RuleModel -> LoanChecked
+Rules.Service.Models.RuleModel -> Messages.Events.LoanChecked
+   at lambda_method(Closure , RuleModel , LoanChecked , ResolutionContext )
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , List`1 , ResolutionContext )
+   at Rules.Service.CheckRulesService.CheckLegality(CheckLoanValid message) in C:\Users\User\source\repos\Bank\Rules.Service\CheckRulesService.cs:line 46
+   at Rules.NSB.CheckLoanValidHandler.Handle(CheckLoanValid message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Rules.NSB\CheckLoanValidHandler.cs:line 23
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.CheckLoanValid
+	Handler type: Rules.NSB.CheckLoanValidHandler
+	Handler start time: 16/08/2020 21:58:50
+	Handler failure time: 16/08/2020 21:58:58
+	Message ID: 667d9532-32e2-4857-851e-ac19016a3b7b
+2020-08-17 01:00:52.049 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 01:00:52.807 INFO  Auditing processed messages to 'audit'
+2020-08-17 01:00:53.171 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 01:00:56.171 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 01:00:56.602 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 01:39:08.847 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 01:39:09.930 INFO  Auditing processed messages to 'audit'
+2020-08-17 01:39:10.573 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 01:39:14.311 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 01:39:14.686 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 01:43:14.938 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 01:43:16.047 INFO  Auditing processed messages to 'audit'
+2020-08-17 01:43:16.768 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 01:43:19.684 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 01:43:20.071 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 01:48:50.750 INFO  Immediate Retry is going to retry message '97046382-5f4d-4f1b-b8d3-ac190176bd64' because of an exception:
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Array.Resize[T](T[]& array, Int32 newSize)
+   at System.Collections.Generic.Stack`1.PushWithResize(T item)
+   at Rules.Service.CheckRulesService.CheckLegality(CheckLoanValid message) in C:\Users\User\source\repos\Bank\Rules.Service\CheckRulesService.cs:line 65
+   at Rules.NSB.CheckLoanValidHandler.Handle(CheckLoanValid message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Rules.NSB\CheckLoanValidHandler.cs:line 23
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.CheckLoanValid
+	Handler type: Rules.NSB.CheckLoanValidHandler
+	Handler start time: 16/08/2020 22:44:24
+	Handler failure time: 16/08/2020 22:48:50
+	Message ID: 97046382-5f4d-4f1b-b8d3-ac190176bd64
+2020-08-17 10:28:41.312 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:28:42.228 INFO  Auditing processed messages to 'audit'
+2020-08-17 10:28:42.722 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 10:28:46.309 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 10:28:47.409 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 10:34:23.114 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:34:24.047 INFO  Auditing processed messages to 'audit'
+2020-08-17 10:34:24.834 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 10:34:27.424 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 10:34:28.095 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 10:42:34.006 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:42:34.841 INFO  Auditing processed messages to 'audit'
+2020-08-17 10:42:35.470 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 10:42:38.690 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 10:42:39.733 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 10:48:08.554 INFO  Immediate Retry is going to retry message '0a7e3795-2827-424a-a658-ac1a007f3b7d' because of an exception:
+System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+   at System.Array.Resize[T](T[]& array, Int32 newSize)
+   at System.Collections.Generic.Stack`1.PushWithResize(T item)
+   at Rules.Service.CheckRulesService.CheckLegality(CheckLoanValid message) in C:\Users\User\source\repos\Bank\Rules.Service\CheckRulesService.cs:line 68
+   at Rules.NSB.CheckLoanValidHandler.Handle(CheckLoanValid message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Rules.NSB\CheckLoanValidHandler.cs:line 23
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.CheckLoanValid
+	Handler type: Rules.NSB.CheckLoanValidHandler
+	Handler start time: 17/08/2020 07:43:15
+	Handler failure time: 17/08/2020 07:48:08
+	Message ID: 0a7e3795-2827-424a-a658-ac1a007f3b7d
+2020-08-17 10:49:25.522 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:49:26.321 INFO  Auditing processed messages to 'audit'
+2020-08-17 10:49:26.907 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 10:49:29.399 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 10:49:29.803 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 10:53:05.720 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:53:06.713 INFO  Auditing processed messages to 'audit'
+2020-08-17 10:53:07.088 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 10:53:08.863 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 10:53:09.229 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 10:57:38.096 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:57:39.863 INFO  Auditing processed messages to 'audit'
+2020-08-17 10:57:41.183 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 10:57:44.505 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 10:57:45.041 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 11:01:26.901 INFO  in CheckLoanLegalityHandler loanId : c9c6d957-dad5-4e5a-9460-0c63ebbea3d0
+2020-08-17 11:12:25.633 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 11:12:26.135 INFO  Auditing processed messages to 'audit'
+2020-08-17 11:12:26.358 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 11:12:27.503 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 11:12:27.757 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 11:15:46.273 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 11:15:46.837 INFO  Auditing processed messages to 'audit'
+2020-08-17 11:15:47.051 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 11:15:48.408 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 11:15:48.676 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 11:20:53.555 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 11:20:54.889 INFO  Auditing processed messages to 'audit'
+2020-08-17 11:20:55.432 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 11:21:01.493 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 11:21:01.784 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 11:21:41.849 INFO  in CheckLoanLegalityHandler loanId : 498fac3c-0785-427d-96bf-34e9f8d8fe95
+2020-08-17 12:43:07.748 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 12:43:08.386 INFO  Auditing processed messages to 'audit'
+2020-08-17 12:43:08.714 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 12:43:10.904 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 12:43:11.189 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 12:55:32.703 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 12:55:33.379 INFO  Auditing processed messages to 'audit'
+2020-08-17 12:55:33.828 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 12:55:35.814 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 12:55:36.057 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 12:56:58.410 INFO  in CheckLoanLegalityHandler loanId : e0d88b7a-3fec-4c02-9467-c77f458e85d1
+2020-08-17 13:09:57.832 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:09:58.606 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:09:59.212 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:10:10.015 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:10:10.499 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 13:11:33.329 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:11:34.418 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:11:34.735 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:11:38.576 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:11:46.664 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 13:12:55.853 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:12:57.002 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:12:58.088 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:13:02.938 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:13:03.572 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 13:13:25.380 INFO  in CheckLoanLegalityHandler loanId : f43f9656-605f-4ad7-95a2-b33f34943f05
+2020-08-17 13:18:04.785 INFO  in CheckLoanLegalityHandler loanId : f7d3f5e5-8c37-4cf9-be94-9b7ce7e0670d
+2020-08-17 13:19:58.155 INFO  in CheckLoanLegalityHandler loanId : 73ac4660-1da7-433f-b88a-7042203a9f6d
+2020-08-17 13:34:05.857 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:34:07.144 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:34:07.786 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:34:10.687 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:34:11.497 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 13:39:59.697 INFO  in CheckLoanLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 13:44:45.349 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:44:46.057 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:44:46.638 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:44:48.972 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:44:49.622 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 13:49:44.614 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:49:45.195 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:49:45.489 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:49:47.426 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:49:47.829 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 14:02:23.338 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:02:24.162 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:02:24.710 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:02:27.667 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:02:27.991 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 14:04:42.668 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:04:44.126 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:04:44.642 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:04:46.406 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:04:47.302 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 14:07:13.779 INFO  in CheckLoanLegalityHandler loanId : f7d3f5e5-8c37-4cf9-be94-9b7ce7e0670d
+2020-08-17 14:09:40.756 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:09:42.160 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:09:42.917 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:09:45.532 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:09:46.016 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 14:12:34.007 INFO  in CheckLoanLegalityHandler loanId : f43f9656-605f-4ad7-95a2-b33f34943f05
+2020-08-17 14:16:27.093 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:16:33.414 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:16:34.117 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:16:39.295 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:16:39.676 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 14:17:55.957 INFO  in CheckLoanLegalityHandler loanId : f7d3f5e5-8c37-4cf9-be94-9b7ce7e0670d
+2020-08-17 17:35:58.487 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 17:35:59.309 INFO  Auditing processed messages to 'audit'
+2020-08-17 17:35:59.908 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 17:36:04.078 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 17:36:04.965 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 17:36:16.233 FATAL Receiver Main failed to start.
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> RabbitMQ.Client.Exceptions.PossibleAuthenticationFailureException: Possibly caused by authentication failure
+ ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at System.IO.BufferedStream.ReadByte()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.ConnectionStartOk(IDictionary`2 clientProperties, String mechanism, Byte[] response, String locale)
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IFrameHandler fh)
+   at RabbitMQ.Client.Framing.Impl.AutorecoveringConnection.Init(IEndpointResolver endpoints)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(String clientProvidedName)
+   at NServiceBus.Transport.RabbitMQ.ConnectionFactory.CreateConnection(String connectionName, Boolean automaticRecoveryEnabled) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConnectionFactory.cs:line 92
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Start(PushRuntimeSettings limitations) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 82
+   at NServiceBus.TransportReceiver.Start()
+   at NServiceBus.ReceiveComponent.Start()
+2020-08-17 17:39:32.856 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 17:39:33.573 INFO  Auditing processed messages to 'audit'
+2020-08-17 17:39:33.927 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 17:39:36.518 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 17:39:36.887 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 17:42:09.391 INFO  in CheckLoanLegalityHandler loanId : 0fb8bd68-3376-4f0a-93bc-1ef954455657
+2020-08-17 18:20:39.371 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:20:40.496 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:20:40.861 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:20:43.742 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:20:44.207 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 18:22:10.053 INFO  in CheckLoanLegalityHandler loanId : 44cbcb95-245d-48b4-942c-5cd2f2971d01
+2020-08-17 18:24:27.503 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:24:28.420 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:24:28.856 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:24:31.360 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:24:31.595 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 18:25:40.910 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:25:42.139 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:25:42.586 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:25:44.902 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:25:45.212 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 18:29:43.519 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:29:44.137 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:29:44.409 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:29:48.211 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:29:48.834 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 18:30:17.352 INFO  in CheckLoanLegalityHandler loanId : b80c6b74-7819-4f17-9e56-f78f6299f14a
+2020-08-17 18:32:34.781 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:32:35.385 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:32:35.673 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:32:37.637 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:32:38.149 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 20:23:57.517 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:23:58.364 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:23:59.058 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:24:02.778 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:24:03.074 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 20:24:42.272 INFO  in CheckLoanLegalityHandler loanId : db711c1e-e3eb-4298-9763-26707c9bcdd0
+2020-08-17 20:37:49.307 WARN  'RulesNSB MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-17 20:37:49.307 WARN  'RulesNSB Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-17 20:37:49.434 WARN  The circuit breaker for 'RulesNSB MessagePump' is now in the armed state
+2020-08-17 20:37:49.437 INFO  Attempting to reconnect in 10 seconds.
+2020-08-17 20:37:59.074 INFO  The circuit breaker for 'RulesNSB MessagePump' is now disarmed
+2020-08-17 20:37:59.484 INFO  Connection to the broker reestablished successfully.
+2020-08-17 20:44:34.215 INFO  in CheckLoanLegalityHandler loanId : 0ee54630-ddb6-42ca-a34a-050a50ba49ce
+2020-08-17 20:47:59.049 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:48:00.314 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:48:00.849 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:48:04.099 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:48:04.616 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 20:48:48.551 INFO  in CheckLoanLegalityHandler loanId : 06dc2728-c333-429f-a029-1d09286f7c8c
+2020-08-17 20:51:01.854 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:51:02.405 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:51:02.720 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:51:05.886 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:51:06.188 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 20:51:20.428 INFO  in CheckLoanLegalityHandler loanId : 121f3c74-59b5-4f08-be4e-eaaae863d811
+2020-08-17 20:53:28.118 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:53:28.783 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:53:29.123 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:53:31.911 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:53:32.162 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 20:53:40.989 INFO  in CheckLoanLegalityHandler loanId : 9244ec5f-e29c-4907-b62f-f452fbb63b53
+2020-08-17 20:55:13.885 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:55:14.725 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:55:15.006 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:55:18.154 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:55:18.537 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 20:55:46.453 INFO  in CheckLoanLegalityHandler loanId : f2e59ca1-b45d-4bd1-9242-7273db062461
+2020-08-17 20:59:43.846 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:59:44.944 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:59:45.486 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:59:47.742 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:59:48.393 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 21:01:02.227 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 21:01:03.082 INFO  Auditing processed messages to 'audit'
+2020-08-17 21:01:03.459 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 21:01:06.210 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 21:01:06.473 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 21:02:44.913 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 21:02:45.533 INFO  Auditing processed messages to 'audit'
+2020-08-17 21:02:45.838 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 21:02:49.543 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 21:02:49.825 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 22:04:15.921 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:04:16.377 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:04:16.609 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:04:17.589 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:04:17.861 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 22:09:46.458 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:09:47.084 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:09:47.561 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:09:49.484 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:09:49.882 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 22:14:25.035 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:14:25.471 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:14:25.679 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:14:27.150 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:14:27.356 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 22:30:47.222 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:30:48.185 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:30:48.389 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:30:49.198 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:30:49.446 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 22:39:15.133 INFO  Logging to 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:39:15.712 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:39:15.931 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:39:17.099 INFO  Executing 'C:\Users\User\source\repos\Bank\Rules.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:39:17.699 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 22:40:22.675 INFO  in CheckLoanLegalityHandler loanId : de127fd2-0299-40b9-afec-359e9146821a

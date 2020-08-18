@@ -1,0 +1,272 @@
+﻿2020-08-18 13:48:00.528 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 13:48:02.282 INFO  Auditing processed messages to 'audit'
+2020-08-18 13:48:02.819 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 13:48:10.655 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 13:52:35.865 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 13:52:36.999 INFO  Auditing processed messages to 'audit'
+2020-08-18 13:52:37.355 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 13:52:41.718 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 13:58:26.154 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 13:58:26.715 INFO  Auditing processed messages to 'audit'
+2020-08-18 13:58:27.342 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 13:58:32.562 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 14:08:21.195 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 14:08:21.944 INFO  Auditing processed messages to 'audit'
+2020-08-18 14:08:22.572 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 14:08:28.475 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 14:10:38.435 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 8b92087c-d443-4f2a-9e3b-f641d84873b3
+2020-08-18 15:39:58.024 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 15:39:59.215 INFO  Auditing processed messages to 'audit'
+2020-08-18 15:39:59.599 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 15:40:05.959 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 15:44:18.562 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 15:44:20.550 INFO  Auditing processed messages to 'audit'
+2020-08-18 15:44:21.542 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 15:44:31.483 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 15:46:15.354 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 26aa5884-4b12-4bc4-b22e-a4276064d778
+2020-08-18 15:50:12.956 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 15:50:14.400 INFO  Auditing processed messages to 'audit'
+2020-08-18 15:50:15.229 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 15:50:22.821 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 15:50:26.729 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 26aa5884-4b12-4bc4-b22e-a4276064d778
+2020-08-18 15:51:52.156 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 90fea77a-8bf3-4967-a127-387522419996
+2020-08-18 15:55:44.534 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 15:55:45.732 INFO  Auditing processed messages to 'audit'
+2020-08-18 15:55:46.158 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 15:55:55.170 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 15:59:24.354 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 43289d80-39bf-4ed0-a683-08ce50e43eb2
+2020-08-18 16:05:40.102 WARN  'LoansNSB Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 16:05:40.102 WARN  'LoansNSB MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 16:05:40.269 INFO  Attempting to reconnect in 10 seconds.
+2020-08-18 16:05:40.357 WARN  The circuit breaker for 'LoansNSB MessagePump' is now in the armed state
+2020-08-18 16:05:43.561 INFO  Immediate Retry is going to retry message '08c663b1-8787-4df1-9e50-ac1b00d60f4f' because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 08c663b1-8787-4df1-9e50-ac1b00d60f4f
+2020-08-18 16:05:44.010 WARN  Delayed Retry will reschedule message '08c663b1-8787-4df1-9e50-ac1b00d60f4f' after a delay of 00:00:02 because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 08c663b1-8787-4df1-9e50-ac1b00d60f4f
+2020-08-18 16:05:44.192 FATAL Failed to execute recoverability policy for message with native ID: `08c663b1-8787-4df1-9e50-ac1b00d60f4f`
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.DelayedRetryExecutor.Retry(IncomingMessage message, TimeSpan delay, TransportTransaction transportTransaction)
+   at NServiceBus.RecoverabilityExecutor.DeferMessage(DelayedRetry action, ErrorContext errorContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 279
+2020-08-18 16:05:50.138 INFO  The circuit breaker for 'LoansNSB MessagePump' is now disarmed
+2020-08-18 16:05:50.244 INFO  Immediate Retry is going to retry message '08c663b1-8787-4df1-9e50-ac1b00d60f4f' because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 08c663b1-8787-4df1-9e50-ac1b00d60f4f
+2020-08-18 16:05:50.517 WARN  Delayed Retry will reschedule message '08c663b1-8787-4df1-9e50-ac1b00d60f4f' after a delay of 00:00:02 because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 08c663b1-8787-4df1-9e50-ac1b00d60f4f
+2020-08-18 16:05:50.528 INFO  Connection to the broker reestablished successfully.
+2020-08-18 16:59:41.299 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 16:59:42.849 INFO  Auditing processed messages to 'audit'
+2020-08-18 16:59:43.609 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 16:59:57.426 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 17:04:17.956 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 17:04:19.622 INFO  Auditing processed messages to 'audit'
+2020-08-18 17:04:20.767 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 17:04:29.353 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 17:17:29.513 WARN  'LoansNSB Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 17:17:29.513 WARN  'LoansNSB MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 17:17:29.583 INFO  Attempting to reconnect in 10 seconds.
+2020-08-18 17:17:29.666 WARN  The circuit breaker for 'LoansNSB MessagePump' is now in the armed state
+2020-08-18 17:17:39.653 INFO  The circuit breaker for 'LoansNSB MessagePump' is now disarmed
+2020-08-18 17:17:39.753 INFO  Connection to the broker reestablished successfully.
+2020-08-18 17:22:11.386 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 17:22:12.569 INFO  Auditing processed messages to 'audit'
+2020-08-18 17:22:13.559 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 17:22:21.738 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 20:48:28.231 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 20:48:29.223 INFO  Auditing processed messages to 'audit'
+2020-08-18 20:48:30.499 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 20:48:37.919 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 20:52:20.948 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 20:52:22.025 INFO  Auditing processed messages to 'audit'
+2020-08-18 20:52:22.385 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 20:52:30.538 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 20:56:25.516 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 20:56:26.214 INFO  Auditing processed messages to 'audit'
+2020-08-18 20:56:26.650 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 20:56:35.836 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 21:04:44.474 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 21:04:45.924 INFO  Auditing processed messages to 'audit'
+2020-08-18 21:04:46.480 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 21:04:52.642 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 21:11:10.678 WARN  'LoansNSB MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 21:11:10.678 WARN  'LoansNSB Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 21:11:10.716 WARN  The circuit breaker for 'LoansNSB MessagePump' is now in the armed state
+2020-08-18 21:11:10.718 INFO  Attempting to reconnect in 10 seconds.
+2020-08-18 21:11:24.790 INFO  The circuit breaker for 'LoansNSB MessagePump' is now disarmed
+2020-08-18 21:11:33.818 INFO  Connection to the broker reestablished successfully.
+2020-08-18 21:11:35.940 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 32ee1faa-d5cd-4727-a38f-da77cc36cc0c
+2020-08-18 21:30:57.153 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 21:30:58.364 INFO  Auditing processed messages to 'audit'
+2020-08-18 21:30:58.887 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-18 21:31:14.187 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'

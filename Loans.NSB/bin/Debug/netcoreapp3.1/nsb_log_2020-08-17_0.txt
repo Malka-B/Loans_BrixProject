@@ -1,0 +1,1162 @@
+﻿2020-08-17 00:10:02.926 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:10:03.513 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:10:03.735 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:10:08.390 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:10:09.280 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:20:37.782 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:20:38.664 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:20:39.098 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:20:48.803 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:20:49.887 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:30:01.550 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:30:02.070 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:30:02.399 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:30:06.512 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:30:07.466 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:34:21.135 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:34:22.639 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:34:23.402 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:34:32.053 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:34:33.013 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:37:08.759 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:37:09.478 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:37:09.712 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:37:14.332 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:37:15.101 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 00:37:15.864 INFO  Initiating shutdown.
+2020-08-17 00:37:16.160 INFO  Shutdown complete.
+2020-08-17 00:57:51.812 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 00:57:52.802 INFO  Auditing processed messages to 'audit'
+2020-08-17 00:57:53.622 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 00:58:04.409 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 00:58:05.394 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 01:00:45.730 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 01:00:47.120 INFO  Auditing processed messages to 'audit'
+2020-08-17 01:00:47.992 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 01:00:54.504 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 01:00:55.171 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 01:38:57.118 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 01:38:58.569 INFO  Auditing processed messages to 'audit'
+2020-08-17 01:38:59.416 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 01:39:11.621 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 01:39:12.898 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 01:42:59.551 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 01:43:05.600 INFO  Auditing processed messages to 'audit'
+2020-08-17 01:43:06.638 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 01:43:14.484 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 01:43:16.109 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 10:28:33.627 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:28:34.385 INFO  Auditing processed messages to 'audit'
+2020-08-17 10:28:34.988 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 10:28:42.065 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 10:28:44.825 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-17 10:34:12.442 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:42:24.492 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:49:21.867 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:52:53.972 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 10:57:31.844 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 11:12:23.288 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 11:15:11.089 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 11:15:46.719 INFO  Auditing processed messages to 'audit'
+2020-08-17 11:15:46.929 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 11:15:50.035 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 11:15:55.509 INFO  Immediate Retry is going to retry message 'a06352f3-bf4c-4e07-b814-ac1a00843f8a' because of an exception:
+System.InvalidOperationException: Unable to resolve service for type 'NServiceBus.IMessageSession' while attempting to activate 'Loans.Service.LoansService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at NServiceBus.Extensions.DependencyInjection.ServiceProviderAdapter.ChildScopeAdapter.Build(Type typeToBuild)
+   at NServiceBus.Extensions.DependencyInjection.ContainerAdapter`1.ChildContainerAdapter.Build(Type typeToBuild)
+   at NServiceBus.CommonObjectBuilder.Build(Type typeToBuild)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: a06352f3-bf4c-4e07-b814-ac1a00843f8a
+2020-08-17 11:15:55.718 WARN  Delayed Retry will reschedule message 'a06352f3-bf4c-4e07-b814-ac1a00843f8a' after a delay of 00:00:02 because of an exception:
+System.InvalidOperationException: Unable to resolve service for type 'NServiceBus.IMessageSession' while attempting to activate 'Loans.Service.LoansService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at NServiceBus.Extensions.DependencyInjection.ServiceProviderAdapter.ChildScopeAdapter.Build(Type typeToBuild)
+   at NServiceBus.Extensions.DependencyInjection.ContainerAdapter`1.ChildContainerAdapter.Build(Type typeToBuild)
+   at NServiceBus.CommonObjectBuilder.Build(Type typeToBuild)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: a06352f3-bf4c-4e07-b814-ac1a00843f8a
+2020-08-17 11:15:57.918 INFO  Immediate Retry is going to retry message 'a06352f3-bf4c-4e07-b814-ac1a00843f8a' because of an exception:
+System.InvalidOperationException: Unable to resolve service for type 'NServiceBus.IMessageSession' while attempting to activate 'Loans.Service.LoansService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at NServiceBus.Extensions.DependencyInjection.ServiceProviderAdapter.ChildScopeAdapter.Build(Type typeToBuild)
+   at NServiceBus.Extensions.DependencyInjection.ContainerAdapter`1.ChildContainerAdapter.Build(Type typeToBuild)
+   at NServiceBus.CommonObjectBuilder.Build(Type typeToBuild)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: a06352f3-bf4c-4e07-b814-ac1a00843f8a
+2020-08-17 11:15:58.010 ERROR Moving message 'a06352f3-bf4c-4e07-b814-ac1a00843f8a' to the error queue 'error' because processing failed due to an exception:
+System.InvalidOperationException: Unable to resolve service for type 'NServiceBus.IMessageSession' while attempting to activate 'Loans.Service.LoansService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.<>c__DisplayClass7_0.<GetCallSite>b__0(Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at NServiceBus.Extensions.DependencyInjection.ServiceProviderAdapter.ChildScopeAdapter.Build(Type typeToBuild)
+   at NServiceBus.Extensions.DependencyInjection.ContainerAdapter`1.ChildContainerAdapter.Build(Type typeToBuild)
+   at NServiceBus.CommonObjectBuilder.Build(Type typeToBuild)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: a06352f3-bf4c-4e07-b814-ac1a00843f8a
+2020-08-17 11:20:47.320 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 11:20:48.363 INFO  Auditing processed messages to 'audit'
+2020-08-17 11:20:48.990 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 11:20:55.559 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 12:43:04.489 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 12:43:05.297 INFO  Auditing processed messages to 'audit'
+2020-08-17 12:43:05.840 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 12:43:10.472 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 12:43:11.954 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 498fac3c-0785-427d-96bf-34e9f8d8fe95
+2020-08-17 12:43:28.984 INFO  Immediate Retry is going to retry message '78cdf68d-d3fc-48ae-b9db-ac1a0089d013' because of an exception:
+Exceptions.LoanNotFoundException: Exception of type 'Exceptions.LoanNotFoundException' was thrown.
+   at Loans.Service.LoansService.UpdateLoanAfterCheckLegality(LoanChecked message) in C:\Users\User\source\repos\Bank\Loans.Service\LoansService.cs:line 66
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 22
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 09:43:11:952491 Z
+	Handler failure time: 2020-08-17 09:43:28:950334 Z
+	Message ID: 78cdf68d-d3fc-48ae-b9db-ac1a0089d013
+2020-08-17 12:43:29.341 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 498fac3c-0785-427d-96bf-34e9f8d8fe95
+2020-08-17 12:55:28.697 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 12:55:29.397 INFO  Auditing processed messages to 'audit'
+2020-08-17 12:55:29.683 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 12:55:33.895 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 12:57:14.129 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : e0d88b7a-3fec-4c02-9467-c77f458e85d1
+2020-08-17 13:09:52.093 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:09:52.962 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:09:53.352 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:09:59.098 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:10:02.338 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : e0d88b7a-3fec-4c02-9467-c77f458e85d1
+2020-08-17 13:10:14.031 INFO  Immediate Retry is going to retry message '663e7b1d-c12f-4851-97c4-ac1a00a407bc' because of an exception:
+Exceptions.LoanNotFoundException: Exception of type 'Exceptions.LoanNotFoundException' was thrown.
+   at Loans.Service.LoansService.UpdateLoanAfterCheckLegality(LoanChecked message) in C:\Users\User\source\repos\Bank\Loans.Service\LoansService.cs:line 65
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 22
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 10:10:02:335599 Z
+	Handler failure time: 2020-08-17 10:10:13:939530 Z
+	Message ID: 663e7b1d-c12f-4851-97c4-ac1a00a407bc
+2020-08-17 13:10:14.554 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : e0d88b7a-3fec-4c02-9467-c77f458e85d1
+2020-08-17 13:11:28.509 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:11:29.347 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:11:29.836 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:11:36.445 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:11:38.511 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : e0d88b7a-3fec-4c02-9467-c77f458e85d1
+2020-08-17 13:11:53.211 INFO  Immediate Retry is going to retry message '663e7b1d-c12f-4851-97c4-ac1a00a407bc' because of an exception:
+Exceptions.LoanNotFoundException: Exception of type 'Exceptions.LoanNotFoundException' was thrown.
+   at Loans.Service.LoansService.UpdateLoanAfterCheckLegality(LoanChecked message) in C:\Users\User\source\repos\Bank\Loans.Service\LoansService.cs:line 65
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 22
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 10:11:38:509381 Z
+	Handler failure time: 2020-08-17 10:11:53:151875 Z
+	Message ID: 663e7b1d-c12f-4851-97c4-ac1a00a407bc
+2020-08-17 13:11:53.772 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : e0d88b7a-3fec-4c02-9467-c77f458e85d1
+2020-08-17 13:12:48.907 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:12:50.371 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:12:50.807 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:12:56.429 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:13:28.050 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : f43f9656-605f-4ad7-95a2-b33f34943f05
+2020-08-17 13:18:04.910 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : f7d3f5e5-8c37-4cf9-be94-9b7ce7e0670d
+2020-08-17 13:19:58.273 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 73ac4660-1da7-433f-b88a-7042203a9f6d
+2020-08-17 13:34:02.031 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:34:03.308 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:34:03.839 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:34:10.192 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:40:01.078 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 13:40:04.281 INFO  Immediate Retry is going to retry message 'fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0' because of an exception:
+Exceptions.LoanNotFoundException: Exception of type 'Exceptions.LoanNotFoundException' was thrown.
+   at Loans.Service.LoansService.UpdateLoanAfterCheckLegality(LoanChecked message) in C:\Users\User\source\repos\Bank\Loans.Service\LoansService.cs:line 65
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 22
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 10:40:01:075469 Z
+	Handler failure time: 2020-08-17 10:40:04:245617 Z
+	Message ID: fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0
+2020-08-17 13:40:04.617 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 13:40:04.953 WARN  Delayed Retry will reschedule message 'fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0' after a delay of 00:00:02 because of an exception:
+Exceptions.LoanNotFoundException: Exception of type 'Exceptions.LoanNotFoundException' was thrown.
+   at Loans.Service.LoansService.UpdateLoanAfterCheckLegality(LoanChecked message) in C:\Users\User\source\repos\Bank\Loans.Service\LoansService.cs:line 65
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 22
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 10:40:04:617769 Z
+	Handler failure time: 2020-08-17 10:40:04:944299 Z
+	Message ID: fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0
+2020-08-17 13:40:07.159 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 13:40:07.409 INFO  Immediate Retry is going to retry message 'fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0' because of an exception:
+Exceptions.LoanNotFoundException: Exception of type 'Exceptions.LoanNotFoundException' was thrown.
+   at Loans.Service.LoansService.UpdateLoanAfterCheckLegality(LoanChecked message) in C:\Users\User\source\repos\Bank\Loans.Service\LoansService.cs:line 65
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 22
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 10:40:07:159744 Z
+	Handler failure time: 2020-08-17 10:40:07:405485 Z
+	Message ID: fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0
+2020-08-17 13:40:07.572 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 13:40:07.826 ERROR Moving message 'fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0' to the error queue 'error' because processing failed due to an exception:
+Exceptions.LoanNotFoundException: Exception of type 'Exceptions.LoanNotFoundException' was thrown.
+   at Loans.Service.LoansService.UpdateLoanAfterCheckLegality(LoanChecked message) in C:\Users\User\source\repos\Bank\Loans.Service\LoansService.cs:line 65
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 22
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 10:40:07:572958 Z
+	Handler failure time: 2020-08-17 10:40:07:817015 Z
+	Message ID: fad5f8ec-cf98-4eec-8fab-ac1a00afc7b0
+2020-08-17 13:44:33.259 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:44:34.517 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:44:36.898 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:44:45.415 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:49:33.613 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:49:34.496 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:49:35.145 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 13:49:41.834 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:02:14.671 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:02:15.751 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:02:16.328 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:02:24.615 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:04:33.562 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:04:34.623 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:04:34.931 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:04:46.794 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:07:15.101 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : f7d3f5e5-8c37-4cf9-be94-9b7ce7e0670d
+2020-08-17 14:09:33.101 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:09:34.140 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:09:34.930 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:09:40.224 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:12:35.426 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : f43f9656-605f-4ad7-95a2-b33f34943f05
+2020-08-17 14:16:21.228 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:16:22.123 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:16:22.721 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 14:16:35.473 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:17:57.119 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : f7d3f5e5-8c37-4cf9-be94-9b7ce7e0670d
+2020-08-17 17:35:47.941 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 17:35:49.535 INFO  Auditing processed messages to 'audit'
+2020-08-17 17:35:50.085 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 17:36:00.217 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 17:39:21.676 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 17:39:22.898 INFO  Auditing processed messages to 'audit'
+2020-08-17 17:39:23.358 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 17:39:34.124 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 17:42:19.440 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 0fb8bd68-3376-4f0a-93bc-1ef954455657
+2020-08-17 18:20:29.634 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:20:32.712 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:20:33.640 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:20:43.695 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:22:11.143 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 44cbcb95-245d-48b4-942c-5cd2f2971d01
+2020-08-17 18:24:22.729 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:24:23.877 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:24:24.444 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:24:30.894 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:24:32.370 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 44cbcb95-245d-48b4-942c-5cd2f2971d01
+2020-08-17 18:25:35.354 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:25:36.231 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:25:36.652 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:25:43.397 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:25:45.693 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 44cbcb95-245d-48b4-942c-5cd2f2971d01
+2020-08-17 18:29:37.995 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:29:38.844 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:29:39.399 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:29:45.265 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:30:18.886 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : b80c6b74-7819-4f17-9e56-f78f6299f14a
+2020-08-17 18:31:31.978 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:31:32.778 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:31:33.081 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:32:29.514 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:32:30.602 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:32:31.278 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 18:32:37.450 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:32:39.154 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : b80c6b74-7819-4f17-9e56-f78f6299f14a
+2020-08-17 20:23:51.146 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:23:52.042 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:23:52.827 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:24:01.894 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:24:44.147 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : db711c1e-e3eb-4298-9763-26707c9bcdd0
+2020-08-17 20:37:49.673 WARN  'LoansNSB Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-17 20:37:49.673 WARN  'LoansNSB MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-17 20:37:49.844 WARN  The circuit breaker for 'LoansNSB MessagePump' is now in the armed state
+2020-08-17 20:37:49.851 INFO  Attempting to reconnect in 10 seconds.
+2020-08-17 20:37:51.218 INFO  Immediate Retry is going to retry message '3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8' because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8
+2020-08-17 20:37:51.580 WARN  Delayed Retry will reschedule message '3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8' after a delay of 00:00:02 because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8
+2020-08-17 20:37:51.630 FATAL Failed to execute recoverability policy for message with native ID: `3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8`
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.DelayedRetryExecutor.Retry(IncomingMessage message, TimeSpan delay, TransportTransaction transportTransaction)
+   at NServiceBus.RecoverabilityExecutor.DeferMessage(DelayedRetry action, ErrorContext errorContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 279
+2020-08-17 20:37:59.724 INFO  The circuit breaker for 'LoansNSB MessagePump' is now disarmed
+2020-08-17 20:37:59.764 INFO  Immediate Retry is going to retry message '3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8' because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8
+2020-08-17 20:37:59.824 WARN  Delayed Retry will reschedule message '3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8' after a delay of 00:00:02 because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8
+2020-08-17 20:37:59.842 FATAL Failed to execute recoverability policy for message with native ID: `3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8`
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.DelayedRetryExecutor.Retry(IncomingMessage message, TimeSpan delay, TransportTransaction transportTransaction)
+   at NServiceBus.RecoverabilityExecutor.DeferMessage(DelayedRetry action, ErrorContext errorContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 279
+2020-08-17 20:37:59.881 INFO  Immediate Retry is going to retry message '3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8' because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8
+2020-08-17 20:37:59.972 WARN  Delayed Retry will reschedule message '3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8' after a delay of 00:00:02 because of an exception:
+RabbitMQ.Client.Exceptions.AlreadyClosedException: Already closed: The AMQP operation was interrupted: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+   at RabbitMQ.Client.Framing.Impl.Connection.EnsureIsOpen()
+   at RabbitMQ.Client.Framing.Impl.Connection.CreateModel()
+   at NServiceBus.Transport.RabbitMQ.ConfirmsAwareChannel..ctor(IConnection connection, IRoutingTopology routingTopology) in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ConfirmsAwareChannel.cs:line 15
+   at NServiceBus.Transport.RabbitMQ.ChannelProvider.GetPublishChannel() in /_/src/NServiceBus.Transport.RabbitMQ/Connection/ChannelProvider.cs:line 65
+   at NServiceBus.Transport.RabbitMQ.MessageDispatcher.Dispatch(TransportOperations outgoingMessages, TransportTransaction transaction, ContextBag context) in /_/src/NServiceBus.Transport.RabbitMQ/Sending/MessageDispatcher.cs:line 18
+   at NServiceBus.ImmediateDispatchTerminator.Terminate(IDispatchContext context)
+   at NServiceBus.BatchToDispatchConnector.Invoke(IBatchDispatchContext context, Func`2 stage)
+   at NServiceBus.Pipeline`1.Invoke(TContext context)
+   at NServiceBus.PipelineInvocationExtensions.InvokePipeline[TContext](TContext context)
+   at NServiceBus.ForkExtensions.Fork[TFromContext,TToContext,TForkContext](IForkConnector`3 forkConnector, TForkContext context)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message ID: 3b2653c1-b3cc-47e9-a1a2-ac1a011eefe8
+2020-08-17 20:37:59.983 INFO  Connection to the broker reestablished successfully.
+2020-08-17 20:44:34.368 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 0ee54630-ddb6-42ca-a34a-050a50ba49ce
+2020-08-17 20:47:54.105 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:47:55.192 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:47:56.119 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:48:04.131 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:48:06.037 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 0ee54630-ddb6-42ca-a34a-050a50ba49ce
+2020-08-17 20:48:49.212 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:48:49.456 INFO  Immediate Retry is going to retry message 'a823c08d-24d4-4807-a8d9-ac1a01258eaa' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:48:49:212543 Z
+	Handler failure time: 2020-08-17 17:48:49:445589 Z
+	Message ID: a823c08d-24d4-4807-a8d9-ac1a01258eaa
+2020-08-17 20:48:49.632 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:48:49.736 WARN  Delayed Retry will reschedule message 'a823c08d-24d4-4807-a8d9-ac1a01258eaa' after a delay of 00:00:02 because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:48:49:632118 Z
+	Handler failure time: 2020-08-17 17:48:49:729195 Z
+	Message ID: a823c08d-24d4-4807-a8d9-ac1a01258eaa
+2020-08-17 20:48:51.830 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:48:51.962 INFO  Immediate Retry is going to retry message 'a823c08d-24d4-4807-a8d9-ac1a01258eaa' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:48:51:830261 Z
+	Handler failure time: 2020-08-17 17:48:51:957036 Z
+	Message ID: a823c08d-24d4-4807-a8d9-ac1a01258eaa
+2020-08-17 20:48:52.067 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:48:52.209 ERROR Moving message 'a823c08d-24d4-4807-a8d9-ac1a01258eaa' to the error queue 'error' because processing failed due to an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:48:52:066989 Z
+	Handler failure time: 2020-08-17 17:48:52:201911 Z
+	Message ID: a823c08d-24d4-4807-a8d9-ac1a01258eaa
+2020-08-17 20:50:56.398 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:50:57.743 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:50:58.189 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:51:03.688 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:51:21.541 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:51:21.753 INFO  Immediate Retry is going to retry message '2e29be65-69f1-4981-b147-ac1a012640a4' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:51:21:538876 Z
+	Handler failure time: 2020-08-17 17:51:21:736450 Z
+	Message ID: 2e29be65-69f1-4981-b147-ac1a012640a4
+2020-08-17 20:51:21.900 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:51:21.986 WARN  Delayed Retry will reschedule message '2e29be65-69f1-4981-b147-ac1a012640a4' after a delay of 00:00:02 because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:51:21:900710 Z
+	Handler failure time: 2020-08-17 17:51:21:980164 Z
+	Message ID: 2e29be65-69f1-4981-b147-ac1a012640a4
+2020-08-17 20:51:24.105 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:51:24.202 INFO  Immediate Retry is going to retry message '2e29be65-69f1-4981-b147-ac1a012640a4' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:51:24:105117 Z
+	Handler failure time: 2020-08-17 17:51:24:199566 Z
+	Message ID: 2e29be65-69f1-4981-b147-ac1a012640a4
+2020-08-17 20:51:24.295 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:51:24.411 ERROR Moving message '2e29be65-69f1-4981-b147-ac1a012640a4' to the error queue 'error' because processing failed due to an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:51:24:295283 Z
+	Handler failure time: 2020-08-17 17:51:24:405815 Z
+	Message ID: 2e29be65-69f1-4981-b147-ac1a012640a4
+2020-08-17 20:53:20.880 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:53:21.860 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:53:22.286 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:53:30.165 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:53:42.151 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:53:42.355 INFO  Immediate Retry is going to retry message '3fb2fb9f-7eab-4b52-8620-ac1a0126e55e' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:53:42:149291 Z
+	Handler failure time: 2020-08-17 17:53:42:333166 Z
+	Message ID: 3fb2fb9f-7eab-4b52-8620-ac1a0126e55e
+2020-08-17 20:53:42.545 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:53:42.655 WARN  Delayed Retry will reschedule message '3fb2fb9f-7eab-4b52-8620-ac1a0126e55e' after a delay of 00:00:02 because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:53:42:545394 Z
+	Handler failure time: 2020-08-17 17:53:42:646142 Z
+	Message ID: 3fb2fb9f-7eab-4b52-8620-ac1a0126e55e
+2020-08-17 20:53:44.806 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:53:44.910 INFO  Immediate Retry is going to retry message '3fb2fb9f-7eab-4b52-8620-ac1a0126e55e' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:53:44:806648 Z
+	Handler failure time: 2020-08-17 17:53:44:907225 Z
+	Message ID: 3fb2fb9f-7eab-4b52-8620-ac1a0126e55e
+2020-08-17 20:53:44.997 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:53:45.115 ERROR Moving message '3fb2fb9f-7eab-4b52-8620-ac1a0126e55e' to the error queue 'error' because processing failed due to an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:53:44:997198 Z
+	Handler failure time: 2020-08-17 17:53:45:106955 Z
+	Message ID: 3fb2fb9f-7eab-4b52-8620-ac1a0126e55e
+2020-08-17 20:55:08.212 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:55:09.527 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:55:10.064 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:55:16.182 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:55:47.601 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:59:39.674 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:59:40.936 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:59:41.310 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 20:59:47.692 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:59:50.062 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:59:50.440 INFO  Immediate Retry is going to retry message '287f731f-6202-401c-94e5-ac1a01277865' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:59:50:059746 Z
+	Handler failure time: 2020-08-17 17:59:50:414305 Z
+	Message ID: 287f731f-6202-401c-94e5-ac1a01277865
+2020-08-17 20:59:50.725 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:59:50.905 WARN  Delayed Retry will reschedule message '287f731f-6202-401c-94e5-ac1a01277865' after a delay of 00:00:02 because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:59:50:725068 Z
+	Handler failure time: 2020-08-17 17:59:50:888926 Z
+	Message ID: 287f731f-6202-401c-94e5-ac1a01277865
+2020-08-17 20:59:53.081 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:59:53.245 INFO  Immediate Retry is going to retry message '287f731f-6202-401c-94e5-ac1a01277865' because of an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:59:53:081217 Z
+	Handler failure time: 2020-08-17 17:59:53:227630 Z
+	Message ID: 287f731f-6202-401c-94e5-ac1a01277865
+2020-08-17 20:59:53.377 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : 00000000-0000-0000-0000-000000000000
+2020-08-17 20:59:53.622 ERROR Moving message '287f731f-6202-401c-94e5-ac1a01277865' to the error queue 'error' because processing failed due to an exception:
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.PrintTreeForAnyRoot(List`1 tree) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 32
+   at Loans.NSB.UpdateLoanAfterCheckLegalityHandler.Handle(LoanChecked message, IMessageHandlerContext context) in C:\Users\User\source\repos\Bank\Loans.NSB\UpdateLoanAfterCheckLegalityHandler.cs:line 26
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Events.LoanChecked
+	Handler type: Loans.NSB.UpdateLoanAfterCheckLegalityHandler
+	Handler start time: 2020-08-17 17:59:53:377285 Z
+	Handler failure time: 2020-08-17 17:59:53:601011 Z
+	Message ID: 287f731f-6202-401c-94e5-ac1a01277865
+2020-08-17 21:00:54.745 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 21:00:55.802 INFO  Auditing processed messages to 'audit'
+2020-08-17 21:00:56.455 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 21:01:04.315 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 21:02:35.852 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 21:02:36.543 INFO  Auditing processed messages to 'audit'
+2020-08-17 21:02:36.781 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 21:02:46.608 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:04:06.283 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:04:07.964 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:04:10.131 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:04:17.241 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:09:35.187 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:09:35.966 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:09:36.367 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:09:49.294 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:14:21.326 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:14:21.827 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:14:22.167 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:14:26.433 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:30:35.762 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:30:38.080 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:30:38.968 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:30:47.962 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:39:07.758 INFO  Logging to 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 22:39:09.008 INFO  Auditing processed messages to 'audit'
+2020-08-17 22:39:09.731 INFO  Selected active license from C:\Users\User\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-04
+2020-08-17 22:39:16.433 INFO  Executing 'C:\Users\User\source\repos\Bank\Loans.NSB\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 22:40:23.785 INFO  in UpdateLoanAfterCheckLegalityHandler loanId : de127fd2-0299-40b9-afec-359e9146821a

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Bank\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\User\source\repos\Bank\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\User\source\repos\Bank\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\User\source\repos\Bank\Messages\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\User\source\repos\Bank\Messages\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\User\source\repos\Bank\Messages\obj\Debug\netcoreapp3.1\Messages.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bank\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bank\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\User\source\repos\Bank\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bank\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CopyComplete
+C:\Users\User\source\repos\Bank\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\User\source\repos\Bank\Messages\obj\Debug\netcoreapp3.1\Messages.pdb

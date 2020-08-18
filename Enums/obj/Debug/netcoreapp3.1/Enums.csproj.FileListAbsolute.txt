@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Bank\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\User\source\repos\Bank\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\User\source\repos\Bank\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\User\source\repos\Bank\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bank\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bank\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\User\source\repos\Bank\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bank\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\User\source\repos\Bank\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
