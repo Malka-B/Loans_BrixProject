@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PHUNGyRexFSV0/LB84rHvS0IMgCshj8S2VZ++k10QkTdUj/tCesi9ZS/qpZA9oyPW8Kx3GpuQTw0V78AZPFASg==",
+  "dgSpecHash": "SgxGm8PYBUMk/g2xQHAxRk4w5NNSqbT3ZoJ7NytvVeHgzzVqNQkVuhIr156l8cPsAJ0ebMKu1VvQz2FpELXCOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.NSB\\Rules.NSB.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.NSB\\Rule.NSB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\epplus\\5.2.1\\epplus.5.2.1.nupkg.sha512",

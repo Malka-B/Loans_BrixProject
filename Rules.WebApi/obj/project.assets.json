@@ -3014,7 +3014,7 @@
           "bin/placeholder/Messages.dll": {}
         }
       },
-      "Rules.Data/1.0.0": {
+      "Rule.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -3024,23 +3024,23 @@
           "Microsoft.Extensions.Configuration": "3.1.7",
           "Microsoft.Extensions.Configuration.Json": "3.1.7",
           "Microsoft.Extensions.DependencyInjection": "3.1.7",
-          "Rules.Service": "1.0.0",
+          "Rule.Service": "1.0.0",
           "Serilog.AspNetCore": "3.4.0",
           "Serilog.Settings.Configuration": "3.1.0",
           "Serilog.Sinks.MSSqlServer": "5.5.1",
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
-          "bin/placeholder/Rules.Data.dll": {}
+          "bin/placeholder/Rule.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Rules.Data.dll": {}
+          "bin/placeholder/Rule.Data.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Rules.Service/1.0.0": {
+      "Rule.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -3058,10 +3058,10 @@
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
-          "bin/placeholder/Rules.Service.dll": {}
+          "bin/placeholder/Rule.Service.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Rules.Service.dll": {}
+          "bin/placeholder/Rule.Service.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -9598,15 +9598,15 @@
       "path": "../Messages/Messages.csproj",
       "msbuildProject": "../Messages/Messages.csproj"
     },
-    "Rules.Data/1.0.0": {
+    "Rule.Data/1.0.0": {
       "type": "project",
-      "path": "../Rules.Data/Rules.Data.csproj",
-      "msbuildProject": "../Rules.Data/Rules.Data.csproj"
+      "path": "../Rules.Data/Rule.Data.csproj",
+      "msbuildProject": "../Rules.Data/Rule.Data.csproj"
     },
-    "Rules.Service/1.0.0": {
+    "Rule.Service/1.0.0": {
       "type": "project",
-      "path": "../Rules.Service/Rules.Service.csproj",
-      "msbuildProject": "../Rules.Service/Rules.Service.csproj"
+      "path": "../Rules.Service/Rule.Service.csproj",
+      "msbuildProject": "../Rules.Service/Rule.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9623,7 +9623,7 @@
       "NServiceBus.Persistence.Sql >= 6.0.2",
       "NServiceBus.RabbitMQ >= 6.0.0",
       "Newtonsoft.Json >= 12.0.3",
-      "Rules.Data >= 1.0.0",
+      "Rule.Data >= 1.0.0",
       "Serilog.AspNetCore >= 3.4.0",
       "Serilog.Settings.Configuration >= 3.1.0",
       "Serilog.Sinks.MSSqlServer >= 5.5.1",
@@ -9639,9 +9639,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Rules.WebApi\\Rules.WebApi.csproj",
-      "projectName": "Rules.WebApi",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.WebApi\\Rules.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Rules.WebApi\\Rule.WebApi.csproj",
+      "projectName": "Rule.WebApi",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.WebApi\\Rule.WebApi.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.WebApi\\obj\\",
       "projectStyle": "PackageReference",
@@ -9662,8 +9662,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj"
+            "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj"
             }
           }
         }

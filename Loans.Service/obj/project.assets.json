@@ -8616,9 +8616,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loans.Service.csproj",
-      "projectName": "Loans.Service",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loans.Service.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loan.Service.csproj",
+      "projectName": "Loan.Service",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loan.Service.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\obj\\",
       "projectStyle": "PackageReference",

@@ -2699,7 +2699,7 @@
           "bin/placeholder/Messages.dll": {}
         }
       },
-      "Rules.Service/1.0.0": {
+      "Rule.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -2717,10 +2717,10 @@
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
-          "bin/placeholder/Rules.Service.dll": {}
+          "bin/placeholder/Rule.Service.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Rules.Service.dll": {}
+          "bin/placeholder/Rule.Service.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -8757,10 +8757,10 @@
       "path": "../Messages/Messages.csproj",
       "msbuildProject": "../Messages/Messages.csproj"
     },
-    "Rules.Service/1.0.0": {
+    "Rule.Service/1.0.0": {
       "type": "project",
-      "path": "../Rules.Service/Rules.Service.csproj",
-      "msbuildProject": "../Rules.Service/Rules.Service.csproj"
+      "path": "../Rules.Service/Rule.Service.csproj",
+      "msbuildProject": "../Rules.Service/Rule.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8773,7 +8773,7 @@
       "Microsoft.Extensions.Configuration >= 3.1.7",
       "Microsoft.Extensions.Configuration.Json >= 3.1.7",
       "Microsoft.Extensions.DependencyInjection >= 3.1.7",
-      "Rules.Service >= 1.0.0",
+      "Rule.Service >= 1.0.0",
       "Serilog.AspNetCore >= 3.4.0",
       "Serilog.Settings.Configuration >= 3.1.0",
       "Serilog.Sinks.MSSqlServer >= 5.5.1",
@@ -8787,9 +8787,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj",
-      "projectName": "Rules.Data",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj",
+      "projectName": "Rule.Data",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -8810,8 +8810,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Bank\\Rules.Service\\Rules.Service.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Service\\Rules.Service.csproj"
+            "C:\\Users\\User\\source\\repos\\Bank\\Rules.Service\\Rule.Service.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Service\\Rule.Service.csproj"
             }
           }
         }

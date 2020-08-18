@@ -2838,12 +2838,12 @@
           "bin/placeholder/Exceptions.dll": {}
         }
       },
-      "Loans.Data/1.0.0": {
+      "Loan.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "AutoMapper": "10.0.0",
-          "Loans.Service": "1.0.0",
+          "Loan.Service": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.7",
           "Microsoft.Extensions.Configuration": "3.1.7",
           "Microsoft.Extensions.Configuration.Json": "3.1.7",
@@ -2854,16 +2854,16 @@
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
-          "bin/placeholder/Loans.Data.dll": {}
+          "bin/placeholder/Loan.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Loans.Data.dll": {}
+          "bin/placeholder/Loan.Data.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Loans.Service/1.0.0": {
+      "Loan.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -2882,10 +2882,10 @@
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
-          "bin/placeholder/Loans.Service.dll": {}
+          "bin/placeholder/Loan.Service.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Loans.Service.dll": {}
+          "bin/placeholder/Loan.Service.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -9176,15 +9176,15 @@
       "path": "../Exceptions/Exceptions.csproj",
       "msbuildProject": "../Exceptions/Exceptions.csproj"
     },
-    "Loans.Data/1.0.0": {
+    "Loan.Data/1.0.0": {
       "type": "project",
-      "path": "../Loans.Data/Loans.Data.csproj",
-      "msbuildProject": "../Loans.Data/Loans.Data.csproj"
+      "path": "../Loans.Data/Loan.Data.csproj",
+      "msbuildProject": "../Loans.Data/Loan.Data.csproj"
     },
-    "Loans.Service/1.0.0": {
+    "Loan.Service/1.0.0": {
       "type": "project",
-      "path": "../Loans.Service/Loans.Service.csproj",
-      "msbuildProject": "../Loans.Service/Loans.Service.csproj"
+      "path": "../Loans.Service/Loan.Service.csproj",
+      "msbuildProject": "../Loans.Service/Loan.Service.csproj"
     },
     "Messages/1.0.0": {
       "type": "project",
@@ -9194,8 +9194,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Loans.Data >= 1.0.0",
-      "Loans.Service >= 1.0.0",
+      "Loan.Data >= 1.0.0",
+      "Loan.Service >= 1.0.0",
       "Messages >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.7",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.7",
@@ -9218,9 +9218,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Loans.NSB\\Loans.NSB.csproj",
-      "projectName": "Loans.NSB",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.NSB\\Loans.NSB.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Loans.NSB\\Loan.NSB.csproj",
+      "projectName": "Loan.NSB",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.NSB\\Loan.NSB.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.NSB\\obj\\",
       "projectStyle": "PackageReference",
@@ -9241,11 +9241,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Bank\\Loans.Data\\Loans.Data.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Data\\Loans.Data.csproj"
+            "C:\\Users\\User\\source\\repos\\Bank\\Loans.Data\\Loan.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Data\\Loan.Data.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loans.Service.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loans.Service.csproj"
+            "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loan.Service.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Loans.Service\\Loan.Service.csproj"
             },
             "C:\\Users\\User\\source\\repos\\Bank\\Messages\\Messages.csproj": {
               "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Messages\\Messages.csproj"

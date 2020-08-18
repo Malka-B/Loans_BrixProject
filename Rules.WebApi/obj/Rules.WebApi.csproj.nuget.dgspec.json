@@ -173,12 +173,12 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj": {
+    "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj",
-        "projectName": "Rules.Data",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj",
+        "projectName": "Rule.Data",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\obj\\",
         "projectStyle": "PackageReference",
@@ -434,8 +434,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rules.Data.csproj"
+              "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Bank\\Rules.Data\\Rule.Data.csproj"
               }
             }
           }
